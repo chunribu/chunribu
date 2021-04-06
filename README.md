@@ -2,4 +2,4 @@
 - 👀 I’m interested in Statistics
 - 🌱 I’m currently learning Bioinfomatics
 - 📫 mailto:chunribu@mail.sdu.edu.cn
-- ![intro]("blob/main/intro.jpg")
+- ![intro]("/blob/main/intro.jpg")

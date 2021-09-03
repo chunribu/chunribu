@@ -2,4 +2,4 @@
 - 👀 I’m interested in computational biology
 - 📫 mailto:chunribu@mail.sdu.edu.cn
 
-![data dance](src/datadance.gif)
+<img src="src/datadance.gif" height=200></img>

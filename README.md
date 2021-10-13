@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chunribu
-- 👀 I’m interested in computational biology
+- 👀 I’m interested in [computational biology](https://en.wikipedia.org/wiki/Computational_biology)
 - 📫 Email: chunribu@mail.sdu.edu.cn
 - 📖 Blog: [chunribu.github.io/blog/](https://chunribu.github.io/blog/)
 
